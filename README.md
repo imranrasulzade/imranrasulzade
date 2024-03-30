@@ -16,4 +16,4 @@
 <h3 align="left">Coding Times:</h3>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imranrasulzade)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imranrasulzade)]
