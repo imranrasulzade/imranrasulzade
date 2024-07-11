@@ -17,8 +17,9 @@
 
 ![My Coding Times by WakakTime](https://github-readme-stats.vercel.app/api/wakatime?username=imranrasulzade)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranrasulzade&show_icons=true&locale=en&layout=compact" alt="imranrasulzade" />
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranrasulzade&show_icons=true&locale=en&layout=compact" alt="imranrasulzade" />
+</p>
 <br>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
